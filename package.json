@@ -1,6 +1,5 @@
 {
-  "homepage": "https://fasyanbls.github.io/project-landing-page",
-  "name": "project-landing-page",
+  "name": "landing-page-course",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +8,6 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.1.1",
