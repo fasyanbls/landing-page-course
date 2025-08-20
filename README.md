@@ -48,4 +48,4 @@ Landing page interaktif untuk kelas **"Mastering LinkedIn for Career Growth"**, 
 
 ## 🌍 Live Demo
 
-🔗 
+🔗 https://landing-page-fasya.netlify.app/ 
